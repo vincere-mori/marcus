@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./bust.webp" alt="Marcus Aurelius bust" width="190" />
+  <img src="./icons/icon-512.png" alt="Marcus app icon" width="140" />
 
   <h1>Marcus</h1>
 
