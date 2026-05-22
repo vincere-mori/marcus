@@ -6,10 +6,10 @@
   <p><em>путь — и есть ответ</em></p>
 
   <p>
-    <a href="https://vincere-mori.github.io/marcus-dist/">
+    <a href="https://vincere-mori.github.io/marcus/">
       <img src="https://img.shields.io/badge/open%20app-1f6feb?style=for-the-badge&logo=githubpages&logoColor=white" alt="open app" />
     </a>
-    <a href="https://github.com/vincere-mori/marcus-dist/releases/latest">
+    <a href="https://github.com/vincere-mori/marcus/releases/latest">
       <img src="https://img.shields.io/badge/download-181717?style=for-the-badge&logo=github&logoColor=white" alt="download" />
     </a>
   </p>
@@ -25,7 +25,7 @@ Marcus это спокойное приложение с короткой мыс
 
 ## Скачать
 
-Последняя версия лежит в [Releases](https://github.com/vincere-mori/marcus-dist/releases/latest).
+Последняя версия лежит в [Releases](https://github.com/vincere-mori/marcus/releases/latest).
 
 Какой файл выбрать:
 
@@ -34,7 +34,7 @@ Marcus это спокойное приложение с короткой мыс
 - Linux: `.AppImage`, `.deb` или `.rpm`
 - Android: `.apk`
 
-Web версия работает здесь: [vincere-mori.github.io/marcus-dist](https://vincere-mori.github.io/marcus-dist/)
+Web версия работает здесь: [vincere-mori.github.io/marcus](https://vincere-mori.github.io/marcus/)
 
 ## Что внутри
 
@@ -57,7 +57,7 @@ It keeps short thoughts from stoicism, philosophy, cinema, military notes and ot
 
 ## Downloads
 
-The latest version is in [Releases](https://github.com/vincere-mori/marcus-dist/releases/latest).
+The latest version is in [Releases](https://github.com/vincere-mori/marcus/releases/latest).
 
 Which file to use:
 
@@ -66,7 +66,7 @@ Which file to use:
 - Linux: `.AppImage`, `.deb` or `.rpm`
 - Android: `.apk`
 
-The web version is here: [vincere-mori.github.io/marcus-dist](https://vincere-mori.github.io/marcus-dist/)
+The web version is here: [vincere-mori.github.io/marcus](https://vincere-mori.github.io/marcus/)
 
 ## Features
 
