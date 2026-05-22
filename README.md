@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./icons/icon-512.png" alt="Marcus app icon" width="140" />
+  <img src="https://raw.githubusercontent.com/vincere-mori/marcus/gh-pages/icons/icon-512.png" alt="Marcus app icon" width="140" />
 
   <h1>Marcus</h1>
 
