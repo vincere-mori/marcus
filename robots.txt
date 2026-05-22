@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://vincere-mori.github.io/marcus-dist/sitemap.xml
+Sitemap: https://vincere-mori.github.io/marcus/sitemap.xml
