@@ -17,9 +17,6 @@
   <p>
     <a href="#english-version">English version</a>
   </p>
-
-  <br />
-  <img src="./screenshot.png" alt="Marcus Screenshot" width="360" />
 </div>
 
 ---
@@ -29,6 +26,28 @@
 Marcus это спокойное приложение с короткой мыслью на день.
 
 Внутри есть стоики, философия, кино, военные заметки и просто фразы, к которым хочется вернуться. Без ленты, рекламы и аккаунтов. Открыл, прочитал, сохранил нужное и пошел дальше.
+
+### Интерфейс
+
+<p align="center">
+  <strong>Главный экран</strong><br />
+  <img src="./screenshot_main.png" alt="Главный экран" width="480" />
+</p>
+
+<p align="center">
+  <strong>Кнопки управления</strong><br />
+  <img src="./screenshot_buttons.png" alt="Кнопки управления" width="300" />
+</p>
+
+<p align="center">
+  <strong>Отобранные цитаты</strong><br />
+  <img src="./screenshot_favorites.png" alt="Отобранные цитаты" width="480" />
+</p>
+
+<p align="center">
+  <strong>Меню настроек</strong><br />
+  <img src="./screenshot_menu.png" alt="Меню настроек" width="220" />
+</p>
 
 ## Скачать
 
@@ -61,6 +80,28 @@ Web версия работает здесь: [vincere-mori.github.io/marcus](ht
 Marcus is a quiet daily quote app.
 
 It keeps short thoughts from stoicism, philosophy, cinema, military notes and other texts worth coming back to. No feed, no ads, no account. Open it, read one line, save what matters and move on.
+
+### Interface
+
+<p align="center">
+  <strong>Main Screen</strong><br />
+  <img src="./screenshot_main.png" alt="Main Screen" width="480" />
+</p>
+
+<p align="center">
+  <strong>Controls</strong><br />
+  <img src="./screenshot_buttons.png" alt="Controls" width="300" />
+</p>
+
+<p align="center">
+  <strong>Favorite Quotes</strong><br />
+  <img src="./screenshot_favorites.png" alt="Favorite Quotes" width="480" />
+</p>
+
+<p align="center">
+  <strong>Settings Menu</strong><br />
+  <img src="./screenshot_menu.png" alt="Settings Menu" width="220" />
+</p>
 
 ## Downloads
 
