@@ -13,6 +13,13 @@
       <img src="https://img.shields.io/badge/download-181717?style=for-the-badge&logo=github&logoColor=white" alt="download" />
     </a>
   </p>
+
+  <p>
+    <a href="#english-version">English version</a>
+  </p>
+
+  <br />
+  <img src="./screenshot.png" alt="Marcus Screenshot" width="360" />
 </div>
 
 ---
