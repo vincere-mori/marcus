@@ -31,17 +31,17 @@ Marcus это спокойное приложение с короткой мыс
 
 <p align="center">
   <strong>Главный экран</strong><br />
-  <img src="./screenshot_main.png" alt="Главный экран" width="480" />
+  <img src="./screenshots/screenshot_main.png" alt="Главный экран" width="480" />
 </p>
 
 <p align="center">
   <strong>Отобранные цитаты</strong><br />
-  <img src="./screenshot_favorites.png" alt="Отобранные цитаты" width="480" />
+  <img src="./screenshots/screenshot_favorites.png" alt="Отобранные цитаты" width="480" />
 </p>
 
 <p align="center">
   <strong>Меню настроек</strong><br />
-  <img src="./screenshot_menu.png" alt="Меню настроек" width="220" />
+  <img src="./screenshots/screenshot_menu.png" alt="Меню настроек" width="220" />
 </p>
 
 ## Скачать
@@ -80,17 +80,17 @@ It keeps short thoughts from stoicism, philosophy, cinema, military notes and ot
 
 <p align="center">
   <strong>Main Screen</strong><br />
-  <img src="./screenshot_main.png" alt="Main Screen" width="480" />
+  <img src="./screenshots/screenshot_main.png" alt="Main Screen" width="480" />
 </p>
 
 <p align="center">
   <strong>Favorite Quotes</strong><br />
-  <img src="./screenshot_favorites.png" alt="Favorite Quotes" width="480" />
+  <img src="./screenshots/screenshot_favorites.png" alt="Favorite Quotes" width="480" />
 </p>
 
 <p align="center">
   <strong>Settings Menu</strong><br />
-  <img src="./screenshot_menu.png" alt="Settings Menu" width="220" />
+  <img src="./screenshots/screenshot_menu.png" alt="Settings Menu" width="220" />
 </p>
 
 ## Downloads
