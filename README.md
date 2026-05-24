@@ -35,11 +35,6 @@ Marcus это спокойное приложение с короткой мыс
 </p>
 
 <p align="center">
-  <strong>Кнопки управления</strong><br />
-  <img src="./screenshot_buttons.png" alt="Кнопки управления" width="300" />
-</p>
-
-<p align="center">
   <strong>Отобранные цитаты</strong><br />
   <img src="./screenshot_favorites.png" alt="Отобранные цитаты" width="480" />
 </p>
@@ -86,11 +81,6 @@ It keeps short thoughts from stoicism, philosophy, cinema, military notes and ot
 <p align="center">
   <strong>Main Screen</strong><br />
   <img src="./screenshot_main.png" alt="Main Screen" width="480" />
-</p>
-
-<p align="center">
-  <strong>Controls</strong><br />
-  <img src="./screenshot_buttons.png" alt="Controls" width="300" />
 </p>
 
 <p align="center">
