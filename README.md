@@ -14,11 +14,14 @@
       <img src="https://img.shields.io/badge/download-latest-181717?style=for-the-badge&logo=github&logoColor=white" alt="download latest" />
     </a>
   </p>
+
+  <p>
+    <a href="#english-version">English version</a>
+  </p>
 </div>
 
 <p align="center">
-  <img src="./screenshots/screenshot_main.png" alt="Marcus main screen" width="44%" />
-  <img src="./screenshots/screenshot_favorites.png" alt="Marcus favorites screen" width="44%" />
+  <img src="./screenshots/screenshot_main.png" alt="Marcus main screen" width="760" />
 </p>
 
 ## Скачать
@@ -47,15 +50,34 @@ Marcus - приложение с одной мыслью на день. Без �
 - темы и категории не мешают главному экрану
 - после первого запуска можно пользоваться офлайн
 
-<p align="center">
-  <img src="./screenshots/screenshot_menu.png" alt="Marcus settings menu" width="260" />
-</p>
+<a id="english-version"></a>
 
-## English
+## English version
 
-Marcus is a quiet daily quote app. No feed, no ads, no account. Open it, read one line, save what matters and move on.
+Marcus is a quiet daily quote app for people who want one short thought instead of another noisy feed.
 
-Use the [web app](https://vincere-mori.github.io/marcus/) or download the latest build from [Releases](https://github.com/vincere-mori/marcus/releases/latest).
+It brings together stoicism, philosophy, cinema, military notes and short lines worth returning to. Open it, read one quote, save what matters and move on.
+
+## Download
+
+| Platform | Build |
+| --- | --- |
+| Windows | [Setup .exe](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_x64-setup.exe) / [MSI](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_x64_en-US.msi) |
+| macOS | [DMG](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_universal.dmg) |
+| Linux | [AppImage](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_amd64.AppImage) / [DEB](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_amd64.deb) / [RPM](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus-0.1.10-1.x86_64.rpm) |
+| Android | [APK](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus-v0.1.10-android.apk) |
+
+Web app: [vincere-mori.github.io/marcus](https://vincere-mori.github.io/marcus/)
+
+## Features
+
+- daily quote
+- random next quote
+- favorites
+- visual themes
+- quote categories
+- Russian and English interface
+- offline mode after the first launch
 
 ## Links
 
