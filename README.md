@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="./screenshots/screenshot_main.png" alt="Marcus main screen" width="760" />
+  <img src="./screenshots/screenshot_main.png" alt="Marcus main screen" width="620" />
 </p>
 
 ## Скачать
