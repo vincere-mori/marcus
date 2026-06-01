@@ -28,10 +28,10 @@
 
 | Платформа | Файл |
 | --- | --- |
-| Windows | [Setup .exe](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_x64-setup.exe) / [MSI](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_x64_en-US.msi) |
-| macOS | [DMG](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_universal.dmg) |
-| Linux | [AppImage](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_amd64.AppImage) / [DEB](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_amd64.deb) / [RPM](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus-0.1.10-1.x86_64.rpm) |
-| Android | [APK](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus-v0.1.10-android.apk) |
+| Windows | [Setup .exe](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_x64-setup.exe) / [MSI](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_x64_en-US.msi) |
+| macOS | [DMG](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_universal.dmg) |
+| Linux | [AppImage](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_amd64.AppImage) / [DEB](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_amd64.deb) / [RPM](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus-1.0.0-1.x86_64.rpm) |
+| Android | [APK](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus-v1.0.0-android.apk) |
 
 В браузере: [vincere-mori.github.io/marcus](https://vincere-mori.github.io/marcus/)
 
@@ -62,10 +62,10 @@ It brings together stoicism, philosophy, cinema, military notes and short lines 
 
 | Platform | Build |
 | --- | --- |
-| Windows | [Setup .exe](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_x64-setup.exe) / [MSI](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_x64_en-US.msi) |
-| macOS | [DMG](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_universal.dmg) |
-| Linux | [AppImage](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_amd64.AppImage) / [DEB](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus_0.1.10_amd64.deb) / [RPM](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus-0.1.10-1.x86_64.rpm) |
-| Android | [APK](https://github.com/vincere-mori/marcus/releases/download/v0.1.10/Marcus-v0.1.10-android.apk) |
+| Windows | [Setup .exe](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_x64-setup.exe) / [MSI](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_x64_en-US.msi) |
+| macOS | [DMG](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_universal.dmg) |
+| Linux | [AppImage](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_amd64.AppImage) / [DEB](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus_1.0.0_amd64.deb) / [RPM](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus-1.0.0-1.x86_64.rpm) |
+| Android | [APK](https://github.com/vincere-mori/marcus/releases/download/v1.0.0/Marcus-v1.0.0-android.apk) |
 
 Web app: [vincere-mori.github.io/marcus](https://vincere-mori.github.io/marcus/)
 
