@@ -21,7 +21,14 @@
 </div>
 
 <p align="center">
-  <img src="./screenshots/screenshot.png" alt="Marcus main screen" width="360" />
+  <img src="./screenshots/screenshot.png" alt="Marcus main screen" width="320" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/screenshot-favorites.png" alt="Favorites" width="160" />
+  <img src="./screenshots/screenshot-menu.png" alt="Menu" width="160" />
+  <img src="./screenshots/screenshot-settings.png" alt="Settings" width="160" />
+  <img src="./screenshots/screenshot-support.png" alt="Support" width="160" />
 </p>
 
 ## Скачать
