@@ -13,6 +13,9 @@
     <a href="https://github.com/vincere-mori/marcus/releases/latest">
       <img src="https://img.shields.io/badge/download-latest-181717?style=for-the-badge&logo=github&logoColor=white" alt="download latest" />
     </a>
+    <a href="https://www.rustore.ru/catalog/app/com.vinceremori.marcus">
+      <img src="https://img.shields.io/badge/RuStore-0077FF?style=for-the-badge&logo=rustore&logoColor=white" alt="RuStore" />
+    </a>
   </p>
 
   <p>
